@@ -40,3 +40,4 @@ end
 
 puts Elle.classement
 puts Elle.blog(54).inspect
+puts Elle.blog(104).inspect
